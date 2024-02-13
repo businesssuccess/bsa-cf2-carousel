@@ -1,4 +1,6 @@
 
+document.querySelector('[data-title="cf-slick-slider"]').style.display = "block"; 
+
 	$(function () {
 		$('[data-title="cf-slick-slider"]').each(function () {
 		var containerClass = 'col-inner';
