@@ -1,5 +1,5 @@
-
-document.querySelector('[data-title="cf-slick-slider"]').style.display = "block"; 
+window.onload = function() {
+document.querySelector('[data-title="cf-slick-slider"]').style.display = "block"; }
 
 	$(function () {
 		$('[data-title="cf-slick-slider"]').each(function () {
