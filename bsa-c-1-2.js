@@ -10,8 +10,8 @@
 			dots: true,
 			infinite: true,
 			arrows: true,
-
-            slidesToShow: 1,
+			autoplaySpeed: 4000,
+			slidesToShow: 1,
             slidesToScroll: 1,
               responsive: [
         {
