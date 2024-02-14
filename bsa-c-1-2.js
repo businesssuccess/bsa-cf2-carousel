@@ -11,6 +11,7 @@
 			infinite: true,
 			arrows: true,
 			autoplaySpeed: 4000,
+			speed: 10000,
             slidesToShow: 1,
             slidesToScroll: 1,
               responsive: [
