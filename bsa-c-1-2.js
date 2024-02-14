@@ -10,7 +10,7 @@
 			dots: true,
 			infinite: true,
 			arrows: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 0,
 			speed: 10000,
             slidesToShow: 1,
             slidesToScroll: 1,
